@@ -20,3 +20,6 @@ This program is used to detect and count cars in an image, similar to how modern
 4. The program will load the image and detect cars using Haar Cascade classification. Rectangles will be drawn around each car found, and the total number of cars present in the image will be displayed. The image with the detected cars will be displayed.
 
 Note: If you get an error message that the image file or Haar Cascade classifier file could not be opened, make sure the file path is correct and the files are in the correct location.
+
+
+![Alt Text](car detect.jpg)
