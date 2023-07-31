@@ -22,4 +22,4 @@ This program is used to detect and count cars in an image, similar to how modern
 Note: If you get an error message that the image file or Haar Cascade classifier file could not be opened, make sure the file path is correct and the files are in the correct location.
 
 
-![Alt Text]([car detect.jpg](https://github.com/afnanAlgogandi/car-recognition-counting/blob/main/car%20detect.jpg)https://github.com/afnanAlgogandi/car-recognition-counting/blob/main/car%20detect.jpg)
+![Alt Text]([car detect.jpg])
